@@ -38,11 +38,11 @@
                 <asp:Label ID="lblmsg" runat="server" Font-Bold="True" ForeColor="#003300"></asp:Label>
                 <br />
                 <br />
-                <asp:GridView ID="GridView1" runat="server" BackColor="LightGoldenrodYellow" BorderColor="Tan" BorderWidth="1px" CaptionAlign="Top" CellPadding="2" ForeColor="Black" GridLines="None" Width="369px">
-                    <AlternatingRowStyle BackColor="PaleGoldenrod" />
-                    <FooterStyle BackColor="Tan" />
-                    <HeaderStyle BackColor="Tan" Font-Bold="True" />
-                    <PagerStyle BackColor="PaleGoldenrod" ForeColor="DarkSlateBlue" HorizontalAlign="Center" />
+                <asp:GridView ID="GridView1" runat="server" BackColor="white" BorderColor="white" BorderWidth="1px" CaptionAlign="Top" CellPadding="2" ForeColor="Black" GridLines="None" Width="369px">
+                    <AlternatingRowStyle BackColor="white" />
+                    <FooterStyle BackColor="white" />
+                    <HeaderStyle BackColor="White" Font-Bold="True" />
+                    <PagerStyle BackColor="white" ForeColor="DarkSlateBlue" HorizontalAlign="Center" />
                     <SelectedRowStyle BackColor="DarkSlateBlue" ForeColor="GhostWhite" />
                     <SortedAscendingCellStyle BackColor="#FAFAE7" />
                     <SortedAscendingHeaderStyle BackColor="#DAC09E" />
